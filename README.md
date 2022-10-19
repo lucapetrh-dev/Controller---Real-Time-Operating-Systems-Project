@@ -1,8 +1,13 @@
-# Packets Capture and Network Traffic Analysis - Computer Networks Project
+# Redundant Controller - Real Time Operating Systems Project
 
 ## Description
 
-Capture of packets and analysis of network traffic on mobile devices using packet analyzer software on Android terminals, provided by the ARCLAB lab for a computer networks project.
+Implemented a controller application which provided:
+* Acquisition and filtering of data from sensors
+* Elaboration of the control function
+* Sending data to actuators
+* Implementation of a replica controller with a watchdog function looking for possible controller crashes
+* Diagnostics System using a Deferrable Server
 
 ## 👤 Team
 
